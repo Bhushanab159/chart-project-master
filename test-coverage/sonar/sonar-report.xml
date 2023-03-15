@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unitTest version="1">
+    <file path="D:\chart-project-master\src\App.test.js">
+        <testCase name="renders without crashing" duration="179"/>
+    </file>
+</unitTest>
