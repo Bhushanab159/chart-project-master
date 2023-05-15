@@ -22,7 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "test-coverage": "react-scripts test --coverageDirectory test-coverage --coverage --watchAll=false --testResultsProcessor jest-sonar-reporter"
+    "test-coverage": "react-scripts test --coverageDirectory test-coverage --coverage --watchAll=false --testResultsProcessor jest-sonar-reporter",
+    "coverage": "jest --coverage"
   },
   "eslintConfig": {
     "extends": [

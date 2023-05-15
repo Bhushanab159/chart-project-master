@@ -17,8 +17,8 @@ function App() {
   }  
 
   return (
-    <div className="App">
-        <Header HandleForm={HandleForm}  />
+    <div className="App" data-test="app-component">
+        <Header HandleForm={HandleForm}/>
         <Chart />
         < AddForm formShow={formShow} HandleForm={HandleForm}/>
     </div>
